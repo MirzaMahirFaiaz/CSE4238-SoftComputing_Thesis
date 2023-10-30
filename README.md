@@ -17,7 +17,7 @@ we will tell about the usage later.
 - Md. Mahin Hossain (190204061)
 
 ## License
-This project is licensed under [License Name]. See the LICENSE file for details.
+This project is licensed under Apache 2.0. See the LICENSE file for details.
 
 ## Status
 This project is a work in progress.
