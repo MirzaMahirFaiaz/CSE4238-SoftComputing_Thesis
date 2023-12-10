@@ -8,13 +8,14 @@ This repository contains materials related to our AI model developed for the CSE
 - Dataset used for training the AI model
 
 ## Usage
-we will tell about the usage later.
+we will talk about the usage later.
 
 ## Contributors
 - Mirza Mahir Faiaz (190204067)
 - Md. Redowan Rahman Rafid (190204064)
 - Md. Naimul Islam Kingkon (190204081)
 - Md. Mahin Hossain (190204061)
+- Md. Rafid Reezwan Fahim (190204082)
 
 ## License
 This project is licensed under Apache 2.0. See the LICENSE file for details.
